@@ -42,3 +42,10 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Política de imagem:
    - Habilite verificação de imagem assinada (opcional)
 
+### 4. Configure o Node Pool
+
+- Tipo: Managed Nodes
+- Tamanho: escolha o shape (ex: VM.Standard3.Flex)
+- Número de nós: ex: 3
+- Sistema operacional: Oracle Linux ou outro compatível
+
