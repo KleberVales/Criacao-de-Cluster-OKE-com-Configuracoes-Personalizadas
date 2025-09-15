@@ -38,4 +38,7 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Versão do Kubernetes: selecione a versão desejada
 - Rede: selecione VCN/Subnet existente
 - Criptografia de segredos:
+   - Escolha entre chave gerenciada pela Oracle ou personalizada via OCI Vault
+- Política de imagem:
+   - Habilite verificação de imagem assinada (opcional)
 
