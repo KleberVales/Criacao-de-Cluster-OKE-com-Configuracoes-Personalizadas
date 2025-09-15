@@ -49,3 +49,8 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Número de nós: ex: 3
 - Sistema operacional: Oracle Linux ou outro compatível
 
+### 5. Finalize e Crie
+
+- Revise as configurações
+- Clique em Create Cluster
+
