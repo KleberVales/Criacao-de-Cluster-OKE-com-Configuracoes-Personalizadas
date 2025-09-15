@@ -60,3 +60,8 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Controle de acesso via IAM Policies
 - Verificação de imagem via OCI Registry
 
+### 📡 Observabilidade
+
+- Integração com OCI Logging e Monitoring
+- Métricas de cluster e pods disponíveis via Prometheus/Grafana (opcional)
+
