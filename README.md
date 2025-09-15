@@ -31,3 +31,11 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Clique em Create Cluster
 - Selecione Custom Create
 
+### 3. Configure o Cluster
+
+- Nome: vision-cluster
+- Compartimento: VisionStays-Infra
+- Versão do Kubernetes: selecione a versão desejada
+- Rede: selecione VCN/Subnet existente
+- Criptografia de segredos:
+
