@@ -5,3 +5,9 @@ Este projeto demonstra como criar um cluster Kubernetes no Oracle Cloud Infrastr
 ## 🚀 Objetivo
 
 Criar um cluster OKE com configurações explícitas, utilizando:
+
+- Versão personalizada do Kubernetes
+- Rede VCN/Subnet existente
+- Criptografia de segredos com OCI Vault
+- Políticas de verificação de imagem
+- Grupo de nós gerenciados (Managed Node Pool)
