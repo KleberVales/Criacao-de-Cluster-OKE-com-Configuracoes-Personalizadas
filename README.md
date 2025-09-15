@@ -20,3 +20,5 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Docker e OCI CLI instalados localmente
 - Compartimento definido para os recursos
 
+## ⚙️ Etapas de Criação
+
