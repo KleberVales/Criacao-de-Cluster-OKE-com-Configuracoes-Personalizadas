@@ -14,3 +14,9 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 
 ## 🧱 Pré-requisitos
 
+- Conta na Oracle Cloud com permissões para criar recursos
+- VCN e Subnets previamente configuradas
+- Vault e Key configurados para criptografia
+- Docker e OCI CLI instalados localmente
+- Compartimento definido para os recursos
+
