@@ -23,7 +23,11 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 ## ⚙️ Etapas de Criação
 
 ### 1. Acesse o Console OCI
+
 - Navegue até Developer Services > Kubernetes Clusters (OKE)
 
 ### 2. Inicie o fluxo Custom Create
+
+- Clique em Create Cluster
+- Selecione Custom Create
 
