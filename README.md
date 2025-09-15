@@ -54,3 +54,9 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Revise as configurações
 - Clique em Create Cluster
 
+### 🔐 Segurança
+
+- Criptografia de segredos via OCI Vault
+- Controle de acesso via IAM Policies
+- Verificação de imagem via OCI Registry
+
