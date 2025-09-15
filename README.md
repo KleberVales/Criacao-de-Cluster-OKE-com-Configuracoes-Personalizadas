@@ -11,3 +11,6 @@ Criar um cluster OKE com configurações explícitas, utilizando:
 - Criptografia de segredos com OCI Vault
 - Políticas de verificação de imagem
 - Grupo de nós gerenciados (Managed Node Pool)
+
+## 🧱 Pré-requisitos
+
