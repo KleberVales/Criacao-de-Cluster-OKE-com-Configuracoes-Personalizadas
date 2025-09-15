@@ -1,1 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: reserva-config
+data:
+  DB_HOST: "autonomous-db-url"
+  DB_USER: "vision_user"
 
