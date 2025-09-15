@@ -1,1 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: reserva-service
+  labels:
+    app: reserva
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: reserva
+  template:
+    metadata:
+      labels:
+        app: reserva
+    spec:
+      containers:
+      - name: reserva
+        image: ocir.sa-saopaulo-1.oraclecloud.com/kleberns/reserva:v1
+        ports:
+        - containerPort: 3000
 
